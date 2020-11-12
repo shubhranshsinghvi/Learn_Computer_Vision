@@ -1,10 +1,10 @@
 # Learn_Computer_Vision
-curriculum for "Learn Computer Vision" 
+Curriculum for "Learn Computer Vision" 
 
 ## Course Objective
-After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.
-Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,
-eventually you will master it.
+After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.\\
+(Let's hope we are able to start our own start-up after this course)\\
+Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,eventually you will master it.\\
 
 ## Course Length
 - Winter Breaks 
