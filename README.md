@@ -17,8 +17,6 @@ Curriculum for "Learn Computer Vision"
 - Learn Python https://www.edx.org/course/introduction-to-python-for-data-science-3 (Well, if you are comfortable with MATLAB or C++ then Python wont be much trouble.)
 - Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
 - Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
-- Will attach some short lectures for calculus and linear algebra.  
-
 
 ## Part 1: Low Level Vision (image > image) 
 
