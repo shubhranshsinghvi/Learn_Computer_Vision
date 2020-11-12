@@ -2,8 +2,8 @@
 Curriculum for "Learn Computer Vision" 
 
 ## Course Objective
--After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.(Let's hope we are able to start our own start-up after this course.)
--Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,eventually you will master it.
+- After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.(Let's hope we are able to start our own start-up after this course.)
+- Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,eventually you will master it.
 
 ## Course Length
 - Winter Breaks (31 days)
@@ -12,7 +12,7 @@ Curriculum for "Learn Computer Vision"
 ## Tools Used
 - Python, OpenCV, Tensorflow 
 
-## Part 0: Prerequisites(2 Days)
+## Part 0: Prerequisites(Day 1)
 
 - Learn Python https://www.edx.org/course/introduction-to-python-for-data-science-3 (Well, if you are comfortable with MATLAB or C++ then Python wont be much trouble.)
 - Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
@@ -32,23 +32,23 @@ Curriculum for "Learn Computer Vision"
 - Texture Analysis
 - Template Matching (find object in an image)
 
-#### Video Lectures (Day 3 & 4)
+#### Video Lectures (Day 2 & 3)
 - https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 videos 1-5 
-#### Reading Assignments (Day 4)
+#### Reading Assignments (Day 3)
 - http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf  Sec 3.1.1-2, 3.2 Sec 3.2.3, 4.2 3.3.2-4
-#### Project (Day 4 & 5)
+#### Project (Day 3 & 4)
 - Detect an object in an image via the OpenCV Library
 
 ### Task 2 (Motion and Optical Flow) (2 Days)
 - Motion Analysis
 - Optical Flow
-#### Video Lectures (Day 6)
+#### Video Lectures (Day 5)
 - https://www.udacity.com/course/introduction-to-computer-vision--ud810 Udacity lesson 6
 - https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 video 8
 - https://www.youtube.com/watch?v=wC8hXuHsHAQ&list=PLvqB6_mDBCdlnT84LK_NvbOqcXLlOTR8j&index=6&t=0s 
-#### Reading Assignments (Day 6)
+#### Reading Assignments (Day 5)
 - http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf   Sec 10.5 Sec 8.4 (up until 8.4.1)
-#### Project (Day 7)
+#### Project (Day 6)
 - Track a moving object in a video frame with OpenCV
 
 ### Part 2: Mid Level Vision (image > features)
@@ -59,26 +59,26 @@ Curriculum for "Learn Computer Vision"
 - Hough transform (detect circles, lines)
 - Foreground Extraction
 
-#### Video Lectures (Day 8)
+#### Video Lectures (Day 7)
 - https://www.youtube.com/watch?v=ZF-3aORwEc0
 - https://www.youtube.com/watch?v=3qJej6wgezA
-#### Reading Assignments (Day 8)
+#### Reading Assignments (Day 7)
 - Sec Sec 5.2-5.4 http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf   
-#### Project (Day 8 & 9)
+#### Project (Day 7 & 8)
 - Segment Lane lines in a road image with OpenCV
 
 #### Week 4 (Fitting) (2 Days)
 - Fitting lines and curves
 - Robust fitting, RANSAC
 - Deformable contours
-#### Video Lectures (Day 10)
+#### Video Lectures (Day 9)
 - Videos 6-7 https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 
-#### Reading Assignments (Day 10)
+#### Reading Assignments (Day 9)
 - Sec 4.3.2 5.1.1 http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf    
-#### Project (Day 10 & 11)
+#### Project (Day 9 & 10)
 - Compute Vanishing Points in a hallway image with OpenCV
 
-### Day 12 Relax Man:Chill a Bit
+### Day 11 Relax Man:Chill a Bit
 
 ### Part 3: Multiple Views
 
@@ -88,28 +88,30 @@ Curriculum for "Learn Computer Vision"
 - Planar homography
 - Epipolar geometry and stereo
 - Object instance recognition
-#### Video Lectures (Day 13, 14 & 15)
+#### Video Lectures (Day 12, 13 & 14)
 - https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj 
-#### Reading Assignments (Day 15 & 16) 
+#### Reading Assignments (Day 14 & 15) 
 - http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 see the associated readings on this page
-#### Project (Day 16 & 17)
+#### Project (Day 15 & 16)
 - Turn a set of images into a 3D Object with OpenCV
 
 #### Week 6 (3D Scenes)  (5 Days)
 - Stereo Vision, Dense Motion and Tracking;. 3d Objects 
 - 3D Scene understanding
 - 3D Segmentation and Modeling
-#### Video Lectures (Day 18)
+#### Video Lectures (Day 17)
 - https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 video 9  
 - all videos https://www.coursera.org/learn/stereovision-motion-tracking 
-#### Reading Assignments (Day 19, 20 & 21)
+#### Reading Assignments (Day 18, 19 & 20)
 ##### Google and read the following papers
 - 1. N. Dalal, Histograms of oriented gradients for human detection 
 - 2. G. Csurka et al. (Bag of Visual Words - a brilliant representation of cross field research) Visual categorization with bags of keypoints
 - 3. S Lazebnik, C Schmid, J Ponce, Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories 
 - 4. Jegou et al. Aggregating local image descriptors into compact codes. 
-#### Project (Day 22)
+#### Project (Day 21)
 - Perform Object Segmentation in a 3D Scene with OpenCV
+
+### Day 22 Relax Man:Chill a Bit Again
 
 ### Part 4: High Level Vision (Features > Analysis)
 
