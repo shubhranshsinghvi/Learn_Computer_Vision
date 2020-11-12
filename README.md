@@ -1,22 +1,14 @@
 # Learn_Computer_Vision
-This is the curriculum for "Learn Computer Vision" by Siraj Raval on Youtube
+curriculum for "Learn Computer Vision" 
 
 ## Course Objective
-This is the Curriculum for [this](https://youtu.be/FSe_02FpJas) video on Learn Computer Vision by Siraj Raval on Youtube. After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.
+After completing this course, start your own startup, do consulting work, or find a full-time job related to Computer Vision.
 Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,
 eventually you will master it.
 
-## Find a study buddy
-Join the #Computer_Vision_curriculum channel in our Slack channel to find one http://wizards.herokuapp.com
-
-## Components each week
-- Video Lectures
-- Reading Assignments
-- Project(s) 
-
 ## Course Length
-- 8 weeks
-- 2-3 Hours of Study per Day
+- Winter Breaks 
+- Insane level of Hours of Study per Day
 
 ## Tools Used
 - Python, OpenCV, Tensorflow 
@@ -26,6 +18,8 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Learn Python https://www.edx.org/course/introduction-to-python-for-data-science-3
 - Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
 - Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
+We will go through these two lectures for Calculus and Linear Algebra instead:
+
 
 ## Part 1: Low Level Vision (image > image)
 
