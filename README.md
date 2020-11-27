@@ -6,7 +6,7 @@ Curriculum for "Learn Computer Vision"
 - Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,eventually you will master it.
 
 ## Course Length
-- Winter Breaks (31 days)
+- Summer Breaks (31 Days) (1 Day = 3 days)
 - 5-6 Hours of Study per Day (Gambatte!)
 
 ## Tools Used
